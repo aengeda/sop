@@ -7,7 +7,7 @@ import (
 
 	"github.com/samber/lo"
 
-	"github.com/aengeda/simple-operator-pattern/options"
+	"github.com/aengeda/sop/options"
 )
 
 type controllerNameKeyType struct{}
