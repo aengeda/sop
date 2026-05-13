@@ -3,7 +3,6 @@ module github.com/aengeda/sop
 go 1.26.1
 
 require (
-	github.com/aengeda/simple-operator-pattern v0.0.0-20260508005922-c070160d0b47
 	github.com/samber/lo v1.53.0
 	k8s.io/apimachinery v0.36.0
 	k8s.io/client-go v0.36.0

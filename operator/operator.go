@@ -18,9 +18,9 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/manager"
 	"sigs.k8s.io/controller-runtime/pkg/metrics/server"
 
-	"github.com/aengeda/simple-operator-pattern/controller"
-	"github.com/aengeda/simple-operator-pattern/injection"
-	"github.com/aengeda/simple-operator-pattern/options"
+	"github.com/aengeda/sop/controller"
+	"github.com/aengeda/sop/injection"
+	"github.com/aengeda/sop/options"
 )
 
 var AppName = "coreweave_default_app"
